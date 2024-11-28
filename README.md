@@ -13,7 +13,7 @@
 - 🧠 I have a passion for leveraging data and technology to solve real-world problems.
   
 - 🔍 I enjoy uncovering insights by transforming raw data through preprocessing and creating impactful visualizations.
-- 
+
 - 📚 I’m interested in delving into the creation of statistical and machine learning models to solve real-world problems.
   
 - 📊 Continuous learning is a core part of my professional ethos, as I believe there’s always more to learn, explore, and master in my journey
